@@ -1,10 +1,10 @@
 <?php
 
-namespace ZERO\PHPUserAgent;
+namespace ZengZhongGang\PHPUserAgent;
 
-use ZERO\PHPUserAgent\type\Browser;
-use ZERO\PHPUserAgent\type\Device;
-use ZERO\PHPUserAgent\type\Os;
+use ZengZhongGang\PHPUserAgent\type\Browser;
+use ZengZhongGang\PHPUserAgent\type\Device;
+use ZengZhongGang\PHPUserAgent\type\Os;
 
 class ZUserAgent
 {

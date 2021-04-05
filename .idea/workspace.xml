@@ -11,18 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df2475bd-b12d-4a53-a997-7376fa72d877" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php-user-agent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZUserAgent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/type/Browser.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/type/Device.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/type/Os.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1617615343823</updated>
       <workItem from="1617615345313" duration="308000" />
-      <workItem from="1617617816672" duration="5921000" />
+      <workItem from="1617617816672" duration="7444000" />
     </task>
     <servers />
   </component>

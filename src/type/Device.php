@@ -1,6 +1,6 @@
 <?php
 
-namespace ZERO\PHPUserAgent\type;
+namespace ZengZhongGang\PHPUserAgent\type;
 class Device
 {
 

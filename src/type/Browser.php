@@ -1,6 +1,6 @@
 <?php
 
-namespace ZERO\PHPUserAgent\type;
+namespace ZengZhongGang\PHPUserAgent\type;
 class Browser
 {
     public function __construct(string $user_agent_string)

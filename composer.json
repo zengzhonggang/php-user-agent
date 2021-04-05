@@ -1,5 +1,5 @@
 {
-    "name": "zero/php-user-agent",
+    "name": "zengzhonggang/php-user-agent",
     "license": "MIT",
     "authors": [
         {
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ZERO/PHPUserAgent":"src/"
+            "ZengZhongGang/PHPUserAgent":"src/"
         }
     },
     "description": ""
